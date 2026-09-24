@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+.tidal-session.json
+conversion-report.json
